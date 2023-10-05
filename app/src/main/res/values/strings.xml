@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ProjectConstraintLayout</string>
+    <string name="Nama">Naufal Assani</string>
+    <string name="NIM">20210140058</string>
+    <string name="MOBIL">MORE</string>
+    <string name="nm">Name:</string>
+    <string name="phone">Phone:</string>
+    <string name="address">Address:</string>
+    <string name="entername">Enter Your Name</string>
+    <string name="enterphone">Enter Your Phone Number</string>
+    <string name="enteraddress">Enter Your Address</string>
+    <string name="button1">Phase 1</string>
+    <string name="button2">Phase 2</string>
+    <string name="match">Match Parent</string>
+    <string name="Right">Right</string>
+    <string name="Left">Left</string>
+    <string name="select">Select Your Movie</string>
+    <string name="prev">&lt;</string>
+    <string name="next">&gt;</string>
+</resources>
